@@ -28,3 +28,59 @@ a {
     width: 60px;
     height: 60px;px ;
 }
+.sec-1 h6 {
+    color: var(--primary-text, #1D2130);
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 2px;
+text-transform: uppercase;
+margin-top: 90px;
+margin-left: 60px;
+margin-bottom: 30px;
+}
+.sec-1 h3 {
+    color: var(--primary-text, #1D2130);
+
+/* H1 */
+font-family: Roboto;
+font-size: 56px;
+font-style: normal;
+font-weight: 700;
+line-height: 120%; /* 67.2px */
+width: 600px;
+margin-left: 60px;
+margin-bottom: 150px;
+display: flex;
+}
+.sec-1 img {
+    border-radius: 12px;
+    margin-left: 60px;
+    display: block;
+}
+.text-div h4 {
+    color: var(--primary-text, #1D2130);
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 30px */
+width: 550px;
+}
+.text-div p {
+    color: var(--primary-text, #1D2130);
+
+/* Paragraph */
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 25.6px */
+width: 550px;
+}
+.text-div {
+    margin-left: 60px;
+}
+
