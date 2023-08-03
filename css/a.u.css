@@ -89,3 +89,46 @@ width: 550px;
 	
 }
 
+
+
+/*section 2*/
+
+
+.info-div h3 {
+	color: var(--primary-text, #1D2130);
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 2px;
+text-transform: uppercase;
+}
+.info-div h2 {
+	color: var(--primary-text, #1D2130);
+
+/* H3 */
+font-family: Roboto;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 42px */
+width: 496px;
+}
+.info-div p {
+	color: var(--primary-text, #1D2130);
+
+/* Paragraph */
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 25.6px */
+width: 496px;
+}
+.sec-2 {
+	background-color: #EFF7F2;
+}
+.info-div {
+	
+}
