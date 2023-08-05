@@ -89,3 +89,52 @@ width: 550px;
 	justify-content: space-around;
 }
 
+
+/*section 2*/
+
+
+.sec-2 {
+	background-color: #EFF7F2;
+}
+.sec2h2 {
+	margin-left: 60px;
+	color: var(--primary-text, #1D2130);
+
+/* H2 */
+font-family: Roboto;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 120%; /* 57.6px */
+margin-bottom: 60px;
+}
+.cards {
+	display: flex;
+    flex-wrap: wrap;
+	justify-content: space-around;
+	margin-left: 60px;
+}
+.cards h2 {
+	color: var(--primary-text, #1D2130);
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 332px;
+margin-bottom: ;
+}
+.cards p {
+	color: var(--secondary-text, #525560);
+
+/* Paragraph small */
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 22.4px */
+width: 332px;
+margin-bottom: 50px;
+}
+
+
