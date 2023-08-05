@@ -55,13 +55,15 @@ font-weight: 700;
 line-height: 120%; /* 67.2px */
 width: 600px;
 margin-left: 60px;
-margin-bottom: 150px;
+margin-bottom: 15px;
 
 }
 .sec-1 img {
     border-radius: 12px;
     margin-left: 60px;
     display: block;
+	width: 100%;
+	margin-bottom: 96px;
 }
 .text-div h4 {
     color: var(--primary-text, #1D2130);
@@ -74,7 +76,7 @@ width: 550px;
 }
 .text-div p {
     color: var(--primary-text, #1D2130);
-
+	margin-bottom: 96px;
 /* Paragraph */
 font-family: Roboto;
 font-size: 16px;
@@ -128,6 +130,8 @@ width: 496px;
 }
 .sec-2 {
 	background-color: #EFF7F2;
+	display: flex;
+	justify-content: space-around;
 }
 .info-div {
 	
