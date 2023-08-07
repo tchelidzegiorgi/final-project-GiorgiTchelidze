@@ -26,7 +26,7 @@ a {
 .logo {
 	margin-left: 60px;
     width: 60px;
-    height: 60px;px ;
+    height: 60px
 }
 
 .sec-1 h6 {
@@ -132,7 +132,47 @@ width: 496px;
 	background-color: #EFF7F2;
 	display: flex;
 	justify-content: space-around;
+	margin-bottom: 95px;
 }
-.info-div {
-	
+/*section 3*/
+
+
+.sec3h2 {
+	color: var(--primary-text, #1D2130);
+text-align: center;
+
+/* H2 */
+font-family: Roboto;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 120%; /* 57.6px */
+}
+.sec-3 p {
+	color: var(--secondary-text, #525560);
+text-align: center;
+
+/* Paragraph */
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%; /* 25.6px */
+
+}
+.sec3div {
+	display: flex;
+    flex-wrap: wrap;
+	justify-content: space-around;
+	margin-left: 60px;
+}
+.sec3div h2 {
+	margin-bottom: 50px;
+	color: var(--primary-text, #1D2130);
+text-align: center;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 160%; /* 32px */
 }
