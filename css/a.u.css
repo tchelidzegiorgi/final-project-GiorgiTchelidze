@@ -60,7 +60,7 @@ margin-bottom: 15px;
 }
 .sec-1 img {
     border-radius: 12px;
-    margin-left: 60px;
+    
     display: block;
 	width: 100%;
 	margin-bottom: 96px;
@@ -176,3 +176,46 @@ font-style: normal;
 font-weight: 500;
 line-height: 160%; /* 32px */
 }
+
+
+
+
+/*media */
+
+
+
+
+@media (max-width: 990px) {
+	.sec-2 {
+		display: block;
+		margin-left: 20px;
+	}
+	.info-div p {
+		margin-bottom: 20px;
+	}
+}
+
+@media (max-width: 655px) {
+	.navdiv {
+		display: none;
+	}
+	.sec-1 h6  {
+		margin-left: 20px;
+	}
+	.sec-1 h3 {
+		margin-left: 20px;
+	}
+	.text-div  {
+		margin-left: 20px;
+	}
+}
+
+@media (min-width: 655px) {
+	.barss {
+		display: none;
+	}
+}
+
+
+
+

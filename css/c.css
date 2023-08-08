@@ -273,3 +273,20 @@ footer {
     justify-content: space-between;
     flex-wrap: wrap;
 }
+
+
+
+
+
+
+@media (min-width: 655px) {
+	.barss {
+		display: none;
+	}
+}
+
+@media (max-width: 655px) {
+	nav {
+		display: none;
+	}
+}
